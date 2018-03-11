@@ -30,19 +30,7 @@ class MoviePipeline(object):
                                     fp.write("更新状态: " + item['status'][0].encode("utf8") + '\n')
                                     fp.write("电视台: " + item['TV'][0].encode("utf8") + '\n')
                                     fp.write("更新时间: " + item['update_time'][0].encode("utf8") + '\n' + '\n')
-                                else:
-                                    pass
-                            else:
-                                pass
-                        else:
-                            pass   
-                    else:
-                        pass
-                else:
-                    pass
-            else:
-                pass
-
+                                
         # for item in item_jsgh:
         #     print "-------------sgh -",item
 
