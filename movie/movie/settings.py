@@ -88,4 +88,5 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-ITEM_PIPELINES = {'movie.pipelines.MoviePipeline':100}
+ITEM_PIPELINES = {'movie.pipelines.MoviePipeline':1000}
+FEED_EXPORT_ENCODING = 'utf-8'

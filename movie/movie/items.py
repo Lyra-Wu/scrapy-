@@ -14,4 +14,7 @@ class MovieItem(scrapy.Item):
     title = scrapy.Field()
     link =scrapy.Field()
     class_=scrapy.Field()
+    status=scrapy.Field()
+    TV=scrapy.Field()
+    update_time=scrapy.Field()
 

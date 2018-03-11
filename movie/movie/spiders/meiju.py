@@ -24,15 +24,16 @@ class MeijuSpider(scrapy.Spider):
             for site in sites:  
                 item = MovieItem()  
                 item['title']  = site.xpath('./h5/a/@title').extract()
-                # item['title'] = item['title'].encode("utf8")
-                item['link'] = site.xpath('./h5/a/@href').extract() 
-                item['class_'] = site.xpath('.//h5/span/class="mjjq"').extract()  
+                #item['title'] = item['title'].encode("utf8")
+                item['link'] = site.xpath('./h5/a/@href').extract()
+                item['status'] = site.xpath('./span/font[@color="#AA3700"]/text()').extract()
+                item['TV'] = site.xpath('./span[@class="mjtv"]/text()').extract()
+                item['update_time'] = site.xpath('./div/font[@color="#AA3700"]/text()').extract() 
+                item['class_'] = site.xpath('./span[@class="mjjq"]/text()').extract()
                 items.append(item) 
             #print "crazylog:--(parse)-,type =",type(items),"value =",items
-            f = open("response.txt",'wb')
-            sys.stdout=f
-            print response.body
-            f.close()
+            #f = open("response.txt",'wb')
+            #f.close()
             
             return items  
 
