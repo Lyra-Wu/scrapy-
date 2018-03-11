@@ -1,308 +1,84 @@
-剧名: 新百战天龙第二季
-链接: http://www.meijutt.com/content/meiju23150.html
-类型: 动作,剧情,冒险
-更新状态: 第17集
-电视台: CBS
-更新时间: 2018-3-10
+剧名: 疯狂教授生物课第一季
+链接: http://www.meijutt.com/content/meiju23364.html
+类型: 喜剧
+更新状态: 第4集
+电视台: NBC
+更新时间: 2018-3-11
+
+剧名: 加罗律师第一季
+链接: http://www.meijutt.com/content/meiju23401.html
+类型: 律政,历史,传记
+更新状态: 第2集
+电视台: BBC
+更新时间: 2018-3-11
+
+剧名: 欺诈担保人第二季
+链接: http://www.meijutt.com/content/meiju23427.html
+类型: 罪案,剧情
+更新状态: 第2集
+电视台: Amazon
+更新时间: 2018-3-11
+
+剧名: 姬芮第一季
+链接: http://www.meijutt.com/content/meiju23430.html
+类型: 迷你剧,悬疑,剧情
+更新状态: 第1集
+电视台: Channel4
+更新时间: 2018-3-11
+
+剧名: 相对宇宙第一季
+链接: http://www.meijutt.com/content/meiju23281.html
+类型: 科幻,剧情
+更新状态: 第8集
+电视台: Starz
+更新时间: 2018-3-11
 
 剧名: 星际之门：起源第一季
 链接: http://www.meijutt.com/content/meiju23393.html
 类型: 科幻
 更新状态: 第10集
 电视台: 其他
-更新时间: 2018-3-10
-
-剧名: 众口难调第二季
-链接: http://www.meijutt.com/content/meiju23352.html
-类型: 喜剧,剧情
-更新状态: 第7集
-电视台: HBO
-更新时间: 2018-3-10
-
-剧名: 欺诈担保人第二季
-链接: http://www.meijutt.com/content/meiju23427.html
-类型: 罪案,剧情
-更新状态: 第1集
-电视台: Amazon
-更新时间: 2018-3-10
-
-剧名: 盲点第三季
-链接: http://www.meijutt.com/content/meiju23166.html
-类型: 罪案,剧情
-更新状态: 第14集
-电视台: NBC
-更新时间: 2018-3-10
-
-剧名: 神盾局特工第五季
-链接: http://www.meijutt.com/content/meiju23091.html
-类型: 科幻,动作
-更新状态: 第12集
-电视台: ABC
-更新时间: 2018-3-10
-
-剧名: 职场老妈第二季
-链接: http://www.meijutt.com/content/meiju23335.html
-类型: 家庭,喜剧
-更新状态: 第8集
-电视台: 其他
-更新时间: 2018-3-10
-
-剧名: 杰西卡·琼斯第二季
-链接: http://www.meijutt.com/content/meiju23288.html
-类型: 罪案,科幻,动作,剧情
-更新状态: 第13集
-电视台: Netflix
-更新时间: 2018-3-10
-
-剧名: 铁卫雄狮第二季
-链接: http://www.meijutt.com/content/meiju22935.html
-类型: 动画
-更新状态: 第16集
-电视台: Disney
-更新时间: 2018-3-10
-
-剧名: 一路绕行第三季
-链接: http://www.meijutt.com/content/meiju23363.html
-类型: 喜剧
-更新状态: 第5集
-电视台: TBS
-更新时间: 2018-3-10
-
-剧名: 塔影蜃楼第一季
-链接: http://www.meijutt.com/content/meiju23411.html
-类型: 罪案,战争,历史
-更新状态: 第4集
-电视台: Hulu
-更新时间: 2018-3-10
+更新时间: 2018-3-11
 
 剧名: 新百战天龙第二季
 链接: http://www.meijutt.com/content/meiju23150.html
 类型: 动作,剧情,冒险
 更新状态: 第17集
 电视台: CBS
-更新时间: 2018-3-10
+更新时间: 2018-3-11
 
-剧名: 星际之门：起源第一季
-链接: http://www.meijutt.com/content/meiju23393.html
-类型: 科幻
-更新状态: 第10集
-电视台: 其他
-更新时间: 2018-3-10
-
-剧名: 众口难调第二季
-链接: http://www.meijutt.com/content/meiju23352.html
-类型: 喜剧,剧情
-更新状态: 第7集
-电视台: HBO
-更新时间: 2018-3-10
-
-剧名: 欺诈担保人第二季
-链接: http://www.meijutt.com/content/meiju23427.html
-类型: 罪案,剧情
-更新状态: 第1集
-电视台: Amazon
-更新时间: 2018-3-10
-
-剧名: 盲点第三季
-链接: http://www.meijutt.com/content/meiju23166.html
-类型: 罪案,剧情
-更新状态: 第14集
-电视台: NBC
-更新时间: 2018-3-10
-
-剧名: 神盾局特工第五季
-链接: http://www.meijutt.com/content/meiju23091.html
-类型: 科幻,动作
-更新状态: 第12集
-电视台: ABC
-更新时间: 2018-3-10
-
-剧名: 职场老妈第二季
-链接: http://www.meijutt.com/content/meiju23335.html
-类型: 家庭,喜剧
-更新状态: 第8集
-电视台: 其他
-更新时间: 2018-3-10
-
-剧名: 杰西卡·琼斯第二季
-链接: http://www.meijutt.com/content/meiju23288.html
-类型: 罪案,科幻,动作,剧情
-更新状态: 第13集
-电视台: Netflix
-更新时间: 2018-3-10
-
-剧名: 铁卫雄狮第二季
-链接: http://www.meijutt.com/content/meiju22935.html
-类型: 动画
-更新状态: 第16集
-电视台: Disney
-更新时间: 2018-3-10
-
-剧名: 一路绕行第三季
-链接: http://www.meijutt.com/content/meiju23363.html
-类型: 喜剧
-更新状态: 第5集
-电视台: TBS
-更新时间: 2018-3-10
-
-剧名: 塔影蜃楼第一季
-链接: http://www.meijutt.com/content/meiju23411.html
-类型: 罪案,战争,历史
-更新状态: 第4集
-电视台: Hulu
-更新时间: 2018-3-10
-
-剧名: 新百战天龙第二季
-链接: http://www.meijutt.com/content/meiju23150.html
-类型: 动作,剧情,冒险
+剧名: 天堂执法者第八季
+链接: http://www.meijutt.com/content/meiju23145.html
+类型: 罪案,爱情,同性,动作,剧情
 更新状态: 第17集
 电视台: CBS
-更新时间: 2018-3-10
+更新时间: 2018-3-11
 
-剧名: 星际之门：起源第一季
-链接: http://www.meijutt.com/content/meiju23393.html
-类型: 科幻
-更新状态: 第10集
-电视台: 其他
-更新时间: 2018-3-10
-
-剧名: 众口难调第二季
-链接: http://www.meijutt.com/content/meiju23352.html
+剧名: 亚特兰大第二季
+链接: http://www.meijutt.com/content/meiju23418.html
 类型: 喜剧,剧情
-更新状态: 第7集
-电视台: HBO
-更新时间: 2018-3-10
-
-剧名: 欺诈担保人第二季
-链接: http://www.meijutt.com/content/meiju23427.html
-类型: 罪案,剧情
-更新状态: 第1集
-电视台: Amazon
-更新时间: 2018-3-10
-
-剧名: 盲点第三季
-链接: http://www.meijutt.com/content/meiju23166.html
-类型: 罪案,剧情
-更新状态: 第14集
-电视台: NBC
-更新时间: 2018-3-10
-
-剧名: 神盾局特工第五季
-链接: http://www.meijutt.com/content/meiju23091.html
-类型: 科幻,动作
-更新状态: 第12集
-电视台: ABC
-更新时间: 2018-3-10
-
-剧名: 职场老妈第二季
-链接: http://www.meijutt.com/content/meiju23335.html
-类型: 家庭,喜剧
-更新状态: 第8集
-电视台: 其他
-更新时间: 2018-3-10
+更新状态: 第2集
+电视台: FX
+更新时间: 2018-3-11
 
 剧名: 杰西卡·琼斯第二季
 链接: http://www.meijutt.com/content/meiju23288.html
 类型: 罪案,科幻,动作,剧情
 更新状态: 第13集
 电视台: Netflix
-更新时间: 2018-3-10
+更新时间: 2018-3-11
 
-剧名: 铁卫雄狮第二季
-链接: http://www.meijutt.com/content/meiju22935.html
-类型: 动画
+剧名: 飓风营救第二季
+链接: http://www.meijutt.com/content/meiju23336.html
+类型: 罪案,惊悚,动作
+更新状态: 第6集
+电视台: NBC
+更新时间: 2018-3-11
+
+剧名: 庭审专家第二季
+链接: http://www.meijutt.com/content/meiju23119.html
+类型: 律政,剧情
 更新状态: 第16集
-电视台: Disney
-更新时间: 2018-3-10
-
-剧名: 一路绕行第三季
-链接: http://www.meijutt.com/content/meiju23363.html
-类型: 喜剧
-更新状态: 第5集
-电视台: TBS
-更新时间: 2018-3-10
-
-剧名: 塔影蜃楼第一季
-链接: http://www.meijutt.com/content/meiju23411.html
-类型: 罪案,战争,历史
-更新状态: 第4集
-电视台: Hulu
-更新时间: 2018-3-10
-
-剧名: 新百战天龙第二季
-链接: http://www.meijutt.com/content/meiju23150.html
-类型: 动作,剧情,冒险
-更新状态: 第17集
 电视台: CBS
-更新时间: 2018-3-10
-
-剧名: 星际之门：起源第一季
-链接: http://www.meijutt.com/content/meiju23393.html
-类型: 科幻
-更新状态: 第10集
-电视台: 其他
-更新时间: 2018-3-10
-
-剧名: 众口难调第二季
-链接: http://www.meijutt.com/content/meiju23352.html
-类型: 喜剧,剧情
-更新状态: 第7集
-电视台: HBO
-更新时间: 2018-3-10
-
-剧名: 欺诈担保人第二季
-链接: http://www.meijutt.com/content/meiju23427.html
-类型: 罪案,剧情
-更新状态: 第1集
-电视台: Amazon
-更新时间: 2018-3-10
-
-剧名: 盲点第三季
-链接: http://www.meijutt.com/content/meiju23166.html
-类型: 罪案,剧情
-更新状态: 第14集
-电视台: NBC
-更新时间: 2018-3-10
-
-剧名: 神盾局特工第五季
-链接: http://www.meijutt.com/content/meiju23091.html
-类型: 科幻,动作
-更新状态: 第12集
-电视台: ABC
-更新时间: 2018-3-10
-
-剧名: 职场老妈第二季
-链接: http://www.meijutt.com/content/meiju23335.html
-类型: 家庭,喜剧
-更新状态: 第8集
-电视台: 其他
-更新时间: 2018-3-10
-
-剧名: 杰西卡·琼斯第二季
-链接: http://www.meijutt.com/content/meiju23288.html
-类型: 罪案,科幻,动作,剧情
-更新状态: 第13集
-电视台: Netflix
-更新时间: 2018-3-10
-
-剧名: 铁卫雄狮第二季
-链接: http://www.meijutt.com/content/meiju22935.html
-类型: 动画
-更新状态: 第16集
-电视台: Disney
-更新时间: 2018-3-10
-
-剧名: 一路绕行第三季
-链接: http://www.meijutt.com/content/meiju23363.html
-类型: 喜剧
-更新状态: 第5集
-电视台: TBS
-更新时间: 2018-3-10
-
-剧名: 塔影蜃楼第一季
-链接: http://www.meijutt.com/content/meiju23411.html
-类型: 罪案,战争,历史
-更新状态: 第4集
-电视台: Hulu
-更新时间: 2018-3-10
+更新时间: 2018-3-11
 
